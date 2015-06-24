@@ -1,0 +1,6 @@
+*.sln
+*.sdf
+/Binaries/
+/Build/
+/Intermediate/
+/Saved/
